@@ -4,7 +4,7 @@
 
 $name = "Mr Kevin Han -CNAS";
 
-$message = "Hello, $name! Welcome to  CNAS 1.";
+$message = "I'm going insane.";
 
 echo $message;
 
